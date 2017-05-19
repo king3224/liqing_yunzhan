@@ -236,7 +236,7 @@ public class OrganizationFragment extends BaseFragment<OrganizationContract.Pres
                         }
                     }
                 }
-
+//ceshi
                 KLog.e(TAG,"组织机构equipmentID=:"+mDepartmentData.equipmentID);
                 KLog.e(TAG,"组织机构departtype=:"+mDepartmentData.departtype);
                 //通过eventbus将选择的mDepartmentData传递给Pitchfragment
